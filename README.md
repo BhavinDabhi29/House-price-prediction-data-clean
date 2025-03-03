@@ -63,7 +63,7 @@ pip install pandas numpy matplotlib seaborn
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BhavinDabhi29/House-price-prediction-data-clean.git
+   git clone https://github.com/BhavinDabhi29/House-price-prediction-data-cleaning.git
    ```
 
 2. Navigate into the project directory:
